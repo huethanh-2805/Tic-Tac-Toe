@@ -1,0 +1,1 @@
+const root = createRoot(document.getElementById("root"));
